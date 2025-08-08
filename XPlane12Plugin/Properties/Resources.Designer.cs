@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace XPlane11Plugin.Properties {
+namespace XPlane12Plugin.Properties {
     using System;
 
 
@@ -61,7 +61,7 @@ namespace XPlane11Plugin.Properties {
         }
 
         /// <summary>
-        ///   Looks up a localized string similar to {&quot;GameName&quot;:&quot;X-Plane 11&quot;,&quot;Name&quot;:&quot;Cessna_standard&quot;,&quot;components&quot;:[{&quot;Constant&quot;:false,&quot;Input_index&quot;:1,&quot;Output_index&quot;:1,&quot;MultiplierPos&quot;:1.0,&quot;MultiplierNeg&quot;:1.0,&quot;Offset&quot;:0.0,&quot;Inverse&quot;:true,&quot;Limit&quot;:-1.0,&quot;Smoothing&quot;:0.28678447,&quot;Enabled&quot;:true,&quot;Spikeflatter&quot;:{&quot;Enabled&quot;:false,&quot;Limit&quot;:100.0,&quot;Strength&quot;:0.5},&quot;Deadzone&quot;:0.0,&quot;Type&quot;:0,&quot;Condition&quot;:[],&quot;Math&quot;:[]},{&quot;Constant&quot;:false,&quot;Input_index&quot;:2,&quot;Output_index&quot;:2,&quot;MultiplierPos&quot;:1.0,&quot;MultiplierNeg&quot;:1.0,&quot;Offset&quot;:0.0,&quot;Inverse&quot;:true,&quot;Limit&quot;:-1.0,&quot;Smoothing&quot;:0.5214221,&quot;Enabled&quot;:tr [rest of string was truncated]&quot;;.
+        ///   Looks up a localized string similar to {&quot;GameName&quot;:&quot;X-Plane 12&quot;,&quot;Name&quot;:&quot;Cessna_standard&quot;,&quot;components&quot;:[{&quot;Constant&quot;:false,&quot;Input_index&quot;:1,&quot;Output_index&quot;:1,&quot;MultiplierPos&quot;:1.0,&quot;MultiplierNeg&quot;:1.0,&quot;Offset&quot;:0.0,&quot;Inverse&quot;:true,&quot;Limit&quot;:-1.0,&quot;Smoothing&quot;:0.28678447,&quot;Enabled&quot;:true,&quot;Spikeflatter&quot;:{&quot;Enabled&quot;:false,&quot;Limit&quot;:100.0,&quot;Strength&quot;:0.5},&quot;Deadzone&quot;:0.0,&quot;Type&quot;:0,&quot;Condition&quot;:[],&quot;Math&quot;:[]},{&quot;Constant&quot;:false,&quot;Input_index&quot;:2,&quot;Output_index&quot;:2,&quot;MultiplierPos&quot;:1.0,&quot;MultiplierNeg&quot;:1.0,&quot;Offset&quot;:0.0,&quot;Inverse&quot;:true,&quot;Limit&quot;:-1.0,&quot;Smoothing&quot;:0.5214221,&quot;Enabled&quot;:tr [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string def_profile {
             get {

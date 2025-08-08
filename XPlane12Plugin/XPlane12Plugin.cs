@@ -7,7 +7,7 @@ using System.Net.Sockets;
 using System.Reflection;
 using System.Text;
 using System.Threading;
-using XPlane11Plugin.Properties;
+using XPlane12Plugin.Properties;
 using YawGLAPI;
 
 namespace XPlane12Plugin
