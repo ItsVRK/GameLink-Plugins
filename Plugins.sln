@@ -135,6 +135,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FalconBMS", "FalconBMSPlugi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlyDangerous", "FlyDangerous\FlyDangerous.csproj", "{8C2C05C2-3F2E-6D6E-4FF4-AEEDFD88E003}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XPlane12Plugin", "XPlane12Plugin\XPlane12Plugin.csproj", "{38C3765B-AFD3-C9DD-94F8-90C5CD3890D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -397,6 +399,10 @@ Global
 		{8C2C05C2-3F2E-6D6E-4FF4-AEEDFD88E003}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C2C05C2-3F2E-6D6E-4FF4-AEEDFD88E003}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C2C05C2-3F2E-6D6E-4FF4-AEEDFD88E003}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38C3765B-AFD3-C9DD-94F8-90C5CD3890D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38C3765B-AFD3-C9DD-94F8-90C5CD3890D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38C3765B-AFD3-C9DD-94F8-90C5CD3890D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38C3765B-AFD3-C9DD-94F8-90C5CD3890D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -409,15 +415,6 @@ Global
 		SolutionGuid = {AD46D1CE-DC9A-44B4-BBF1-92644FB798E0}
 	EndGlobalSection
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
-		SharedLib\SharedLib.projitems*{247a212c-ea3c-46d9-82b1-2d7a8dd839e1}*SharedItemsImports = 5
-		SharedLib\SharedLib.projitems*{4d31de79-3b0e-4caf-91ab-f3acfbbe5f9b}*SharedItemsImports = 5
-		SharedLib\SharedLib.projitems*{72d8c5ad-5439-4235-a355-a2546a509a05}*SharedItemsImports = 5
-		SharedLib\SharedLib.projitems*{75a5ac51-c340-4fbc-b93e-cc70b9771ff2}*SharedItemsImports = 5
-		SharedLib\SharedLib.projitems*{88c6fdd2-9cd4-4015-bb6c-3389c29003be}*SharedItemsImports = 5
-		SharedLib\SharedLib.projitems*{9dd14943-3f95-45c8-aace-0eb2582e47ef}*SharedItemsImports = 5
 		SharedLib\SharedLib.projitems*{a0988e26-18f3-4ae4-95df-3bd3b0abe37e}*SharedItemsImports = 13
-		SharedLib\SharedLib.projitems*{acde3183-b78b-48e8-ab68-101ffa2f242f}*SharedItemsImports = 5
-		SharedLib\SharedLib.projitems*{b1a7d5e1-4f6b-4d3a-9f8d-2c8a1e6b5a3f}*SharedItemsImports = 5
-		SharedLib\SharedLib.projitems*{df775724-f4c4-85a1-b474-c422ceb4b242}*SharedItemsImports = 5
 	EndGlobalSection
 EndGlobal
