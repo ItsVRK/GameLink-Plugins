@@ -30,7 +30,7 @@ namespace XPlane12Plugin
         private IProfileManager controller;
         public string PROCESS_NAME => "X-Plane";
         public int STEAM_ID => 2014780;
-        public string AUTHOR => "YawVR";
+        public string AUTHOR => "ItsVRK";
         public bool PATCH_AVAILABLE => false;
         public string Description => Resources.description;
 
